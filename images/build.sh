@@ -1,6 +1,6 @@
-cd base
-./build.sh
-cd ../rt
+#cd base
+#./build.sh
+cd ./rt
 ./build.sh
 cd ../xc
 ./build.sh

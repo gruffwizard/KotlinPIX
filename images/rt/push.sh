@@ -1,1 +1,1 @@
-docker push gwiz/konan-raspberrypi-runtime:latest
+docker push gwiz/konan-pi-base:latest

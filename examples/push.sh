@@ -1,1 +1,1 @@
-docker push  gwiz/konan_example1:latest
+docker push  gwiz/konan-pi-example1:latest
