@@ -1,0 +1,11 @@
+
+
+create a volume to hold the generated klibs and libraries
+
+gwiz/konan-pi-base Create base rasberry pi image with the required extra libraries
+
+gwiz/konan-x86-xc Create a base linux x86 cross compiler for konan
+
+gwiz/konan-pi-xc Create an raspberrypi targeted linux compiler (from the base) #with the klibs for the pi libraries
+
+gwiz/konan-pi-rt  Create a  raspberrypi image with the klibs for the extra libraries for deployment to pi

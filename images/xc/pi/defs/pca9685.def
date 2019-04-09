@@ -1,0 +1,5 @@
+headers =  PCA9685.h
+headerFilter = PCA9685.h
+package = pca9685
+#linkerOpts = /usr/local/lib/libPCA9685.so
+linkerOpts = /root/.konan/pi/lib/libPCA9685.so
